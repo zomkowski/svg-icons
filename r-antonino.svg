@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64 Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="512px" height="512px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 512 512"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil2 {fill:#333333}
+    .fil1 {fill:#FFEB9C}
+    .fil0 {fill:white}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <circle class="fil0" cx="256" cy="256" r="256"/>
+  <path class="fil1" d="M3.04 295.53l124.32 0 0 135.47 -58.18 0c-34.38,-36.69 -58.08,-83.49 -66.14,-135.47zm283.41 -214.53l135.48 0 0 135.47 -135.48 0 0 -135.47zm98.19 214.53l124.32 0c-8.06,51.98 -31.76,98.78 -66.14,135.47l-58.18 0 0 -135.47z"/>
+  <path class="fil2" d="M157.81 81l32.62 65.24 94.52 0 0 -66.74 1.5 0 136.98 0 0 138.47 -66.74 0 0 35.53 95.69 0c1.38,0 2.5,1.12 2.5,2.5l0 38.03 54.3 0c-0.14,1 -0.31,2 -0.47,3l-54.33 0c-0.46,0.61 -1.18,1 -2,1 -0.82,0 -1.55,-0.39 -2,-1l-64.24 0 0 132.47 58.08 0c-0.93,1 -1.85,2.01 -2.79,3l-58.29 0 0 -138.47 1.5 0 65.24 0 0 -35.53 -191.39 0 0 42.01 65.25 130.49 -135.48 0 65.25 -130.49 0 -44.51 0 2.5 -191.39 0 0 35.53 66.74 0 0 138.47 -58.29 0c-0.94,-0.99 -1.86,-2 -2.79,-3l58.08 0 0 -132.47 -64.24 0c-0.45,0.61 -1.18,1 -2,1 -0.82,0 -1.54,-0.39 -2,-1l-54.33 0c-0.16,-1 -0.33,-2 -0.47,-3l54.3 0 0 -38.03c0,-1.38 1.12,-2.5 2.5,-2.5l95.69 0 0 -37.03 -65.23 0 67.73 -135.47zm127.14 70.24l-92.02 0 32.62 65.23 -65.24 0 0 37.03 191.38 0 0 -35.53 -66.74 0 0 -66.73zm135.48 -68.74l-132.48 0 0 132.47 132.48 0 0 -132.47z"/>
+ </g>
+</svg>
